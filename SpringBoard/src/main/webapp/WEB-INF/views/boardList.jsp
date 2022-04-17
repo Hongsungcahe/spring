@@ -9,7 +9,7 @@
 </head>
 <body>
 <%
- ArrayList<String> list = (ArrayList<String>)request.getAttribute("list");
+ ArrayList<String> list = (ArrayList<String>)request.getAttribute("list");  
 %>
 <table border = "1">
 <tr>
